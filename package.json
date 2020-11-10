@@ -1,5 +1,5 @@
 {
-  "name": "ga-sei-boston.browser-template",
+  "name": "Kevin-j-Mosley-Portfolio",
   "version": "0.1.0",
   "private": true,
   "license": {
@@ -16,6 +16,6 @@
   },
   "scripts": {
     "sass": "node-sass --watch assets/styles/scss -o assets/styles",
-    "serve": "browser-sync start --server --files 'index.html, assets/styles/main.css, assets/scripts/index.js'"
+    "serve": "browser-sync start --server --files 'index.html, css/styles.css, js/scripts.js'"
   }
 }
