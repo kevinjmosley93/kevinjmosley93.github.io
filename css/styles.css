@@ -490,10 +490,7 @@ mark,
 .list-inline-item {
   display: flex;
 }
-.list-inline-item:hover {
-  color: rgba(180, 33, 33, 0.8);
-  cursor: pointer;
-}
+
 .list-inline-item:not(:last-child) {
   margin-right: 0.5rem;
 }
