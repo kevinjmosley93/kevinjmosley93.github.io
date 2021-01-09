@@ -4842,6 +4842,11 @@ input[type="button"].btn-block {
   }
 }
 
+.footer-sec {
+  margin-top: 15rem !important;
+  padding-bottom: 1.5rem;
+}
+
 .accordion {
   overflow-anchor: none;
 }
